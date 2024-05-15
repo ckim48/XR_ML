@@ -1,0 +1,35 @@
+h1 {
+    color:red;
+    font-size: 50px;
+}
+.color-blue{
+    color:blue;
+}
+.small-font{
+    font-size: 15px;
+}
+#myh1{
+    color:black;
+}
+.mybtn{
+    text-decoration: none;
+    color: white;
+    background-color: #46CD56;
+    padding: 10px 50px 10px 50px;
+    border-radius: 4px;
+    border: 1px solid #3BBF4B;
+    transition: 0.5s;
+}
+.mybtn:hover{
+    background-color:green;
+}
+.mynavbg{
+    background-color: #E87EBD;
+}
+.big-font{
+    font-family: "Oswald", sans-serif;
+    font-size: 28px;
+}
+.login-card{
+   width: 500px;
+}
